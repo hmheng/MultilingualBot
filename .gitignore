@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/EnterpriseBot2/EnterpriseBot2/bin
+/EnterpriseBot2/EnterpriseBot2/obj
+/EnterpriseBot2/EnterpriseBot2/Properties/PublishProfiles
+/EnterpriseBot2/EnterpriseBot2/GABDEMOBOTSG.bot
+/EnterpriseBot2/EnterpriseBot2/GABDEMOBOTSG1.bot
+/EnterpriseBot2/EnterpriseBot2/publish.cmd
+/EnterpriseBot2/EnterpriseBot2/publish
+/EnterpriseBot2/EnterpriseBot2.Tests/bin/Debug/netcoreapp2.2
+/EnterpriseBot2/EnterpriseBot2.Tests/obj
